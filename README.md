@@ -1,7 +1,7 @@
 <h1 align="center">Stay Afloat</h1>
 
 
-[View the live project here.](https://)
+
 
 
 ## Technologies Used
